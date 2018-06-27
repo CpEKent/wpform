@@ -1,0 +1,4 @@
+20180627
+wp-admin
+useradmin:wpform_kent
+password:wpform_password
